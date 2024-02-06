@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @HassanSharif7
+- 👀 I’m interested in data science, machine learning, and web development.
+- 🌱 I’m currently learning advanced techniques in natural language processing.
+- 💞️ I’m looking to collaborate on innovative projects that blend technology and social impact.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hassan-sharif-301672257/))
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm also a hobbyist photographer capturing moments in code and pixels!
