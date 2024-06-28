@@ -1,4 +1,4 @@
-![logo](https://github.com/HassanSharif7/HassanSharif7/blob/main/baner.png)
+![logo](https://github.com/HassanSharif7/HassanSharif7/blob/main/Blue%20Futuristic%20Artificial%20Intelligence%20Instagram%20Post.png)
 <h1 align="center">Hi 👋, I'm Hassan Sharif</h1>
 <h3 align="center">A passionate Data Science Student from Pakistan</h3>
 
